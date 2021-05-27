@@ -61,6 +61,9 @@ public class ProviderLanguageZHCN extends ProviderLanguage {
         addAdvancement("heroes_assembly",
                 "看看这道菜，群英荟萃",
                 "要您老八十一点都不贵。");
+        addAdvancement("plant_millet",
+                "春种一粒粟，秋收万颗子",
+                "四海无闲田，农夫犹饿死。");
     }
 
     private void addItemGroups() {
